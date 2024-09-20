@@ -7,14 +7,14 @@ This project presents a comprehensive analysis of the U.S. real estate market us
 ## 🌟 Key Features & Analysis
 
 ### 📈 Sales Trends Over Time
-![Sales Trends](./images/sales wrt time.PNG)
+![Sales Trends](./images/sales-wrt-time.PNG)
 - Illustrates property sales across different time periods
 - Identifies seasonal trends and market cycles
 - Tracks sales volume month over month
 - Shows impact of external factors like economic conditions or interest rates
 
 ### 🗺️ Regional Market Comparisons
-![Regional Comparisons](./images/regional sales.PNG)
+![Regional Comparisons](./images/regional-sales.PNG)
 - Uses regional heatmaps and bar charts
 - Provides comparative view of real estate markets across U.S. states and cities
 - Highlights high-growth areas versus stagnating markets
@@ -22,7 +22,7 @@ This project presents a comprehensive analysis of the U.S. real estate market us
 
 
 ### 📊 Market Growth and Decline
-![Market Growth](./images/market size.PNG)
+![Market Growth](./images/market-size.PNG)
 - Tracks both market growth and decline metrics
 - Showcases regions or property types experiencing increase or decrease in demand
 - Helps users focus on rising markets or re-strategize for declining ones
