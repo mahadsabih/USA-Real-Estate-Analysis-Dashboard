@@ -33,13 +33,13 @@ This project presents a comprehensive analysis of the U.S. real estate market us
 - Helps users focus on rising markets or re-strategize for declining ones
 
 ### 🔮 Forecasting
-![Forecasting](./images/forecasting.png)
+
 - Predicts future sales based on historical data
 - Provides forward-looking view to anticipate market changes
 - Assists in adjusting investment or operational strategies
 
 ### 📉 Key Metrics
-![Key Metrics](./images/key-metrics.png)
+
 - Includes:
   - Sales volume
   - Average price per square foot
